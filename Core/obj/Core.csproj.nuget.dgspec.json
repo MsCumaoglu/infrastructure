@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dev\\NorthwindBackend\\Core\\Core.csproj": {}
+    "D:\\github\\infrastructure\\Core\\Core.csproj": {}
   },
   "projects": {
-    "E:\\Dev\\NorthwindBackend\\Core\\Core.csproj": {
+    "D:\\github\\infrastructure\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dev\\NorthwindBackend\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\github\\infrastructure\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\Dev\\NorthwindBackend\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\VetidentDeveloper\\.nuget\\packages\\",
-        "outputPath": "E:\\Dev\\NorthwindBackend\\Core\\obj\\",
+        "projectPath": "D:\\github\\infrastructure\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Misso\\.nuget\\packages\\",
+        "outputPath": "D:\\github\\infrastructure\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\VetidentDeveloper\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Misso\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -93,7 +92,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.210\\RuntimeIdentifierGraph.json"
         }
       }
     }
